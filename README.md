@@ -1,14 +1,6 @@
-```
-Due to lack of time, I will not be accepting new pull requests.
-Please fork this project and customize it to your own needs.
-I look forward to your fork becoming the de facto version.
-
-All the best, Boris.
-```
+*Fork of [keysocket](https://github.com/borismus/keysocket) project by [Boris Mus](https://github.com/borismus) with added support for Spotify's HTML5 player (http://open.spotify.com).*
 
 ﻿Global keyboard bindings to control your Chrome-based music player. Allows your keyboard media keys (play/pause, next, previous) to work when you're listening to music on common streaming websites.
-
-**UPDATE: Now uses Chrome's built in key binding (as of version 25)**
 
 **Supported sites:**
    * Amazon music player
@@ -39,6 +31,7 @@ All the best, Boris.
    * Songza
    * SoundCloud
    * Spotify
+   * Spotify (HTML5)
    * Superplayer.fm
    * Synology Audio Station v.5
    * thesixtyone

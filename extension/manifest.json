@@ -115,6 +115,10 @@
       "js": ["shared.js","keysocket-jango.js"]
     },
     {
+      "matches": ["*://open.spotify.com/*"],
+      "js": ["shared.js","keysocket-spotify-html5.js"]
+    },
+    {
       "matches": ["*://play.spotify.com/*"],
       "js": ["shared.js","keysocket-spotify.js"]
     },
